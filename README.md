@@ -8,4 +8,5 @@ https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutoria
 Note that author used web3js Version 0.20.2. 
 this is the version in Folder `hellod_world_voting2' which works for 
 this tutorial.
+
 Folder hello_world_voting uses version web3js 1.0 (not working)
